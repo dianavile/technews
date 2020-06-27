@@ -1,2 +1,2 @@
 # technews
-![screenshpt Landingpage]()
+![screenshpt](https://github.com/dianavile/technews/blob/master/screenshot.png)
